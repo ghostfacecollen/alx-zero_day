@@ -1,1 +1,1 @@
-I am alx sofware engineer student
+I am alx software engineer student
